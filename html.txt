@@ -1,1 +1,2 @@
 it stand for hypertext markup language
+tag is a left and rigth angle bracket
